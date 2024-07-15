@@ -12,7 +12,7 @@ A simple and intuitive Flutter ToDo application designed to help you manage and 
 - **Cross-Platform:** Runs seamlessly on both Android and iOS devices.
 
 ## Screenshots
-![Screenshot1](link_to_screenshot1) 
+![Screenshot1]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-07-15 225355.png") 
 ![Screenshot2](link_to_screenshot2)
 
 ## Demo
