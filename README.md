@@ -1,22 +1,23 @@
 # ToDo App
 
 ## Description
-A simple and intuitive Flutter ToDo application designed to help you manage and track your daily tasks efficiently. With a clean and user-friendly interface, the ToDo App allows you to stay organized and boost your productivity.
+A simple and intuitive Flutter ToDo application helps you manage and track your daily tasks efficiently. With a clean and user-friendly interface,
+
+## Screenshots
+![Screenshot 2024-07-15 230843](https://github.com/user-attachments/assets/6f958e4e-2755-4484-ac52-4c46fa3af32d)
 
 ## Features
 - **Add New Tasks:** Quickly add new tasks with a simple and intuitive form.
 - **Mark Tasks as Completed:** Easily mark tasks as completed to keep track of your progress.
 - **Delete Tasks:** Swipe to delete tasks you no longer need.
 - **View All Tasks:** See a comprehensive list of all your tasks at a glance.
-- **Persistent Storage:** All tasks are saved locally on your device, ensuring they are available even after closing the app.
 - **Cross-Platform:** Runs seamlessly on both Android and iOS devices.
 
-## Screenshots
-![Screenshot1]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2024-07-15 225355.png") 
-![Screenshot2](link_to_screenshot2)
+
+
 
 ## Demo
-[Link to demo video](link_to_demo_video) (if available)
+https://github.com/user-attachments/assets/74296c30-671c-47aa-86da-02ee9cb4526f
 
 ## Getting Started
 
